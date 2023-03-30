@@ -168,7 +168,6 @@ user.fb123
 .contact__button
 mailto:examplemail@correo.com
 
-https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
 
 
 
@@ -188,5 +187,4 @@ https://www.facebook.com/
 https://www.instagram.com/
 https://twitter.com/
 
-.footer__copy
-&#169; Anayat. All rigths reserved
+
